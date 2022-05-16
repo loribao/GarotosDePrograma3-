@@ -2,15 +2,13 @@
 
 ## Apesar do trocadilho ultrapassado, esté é um projeto serio. 
 ##  Visando o desenvolvimento pessoal e profissional dos integrantes deste grupo. 
-## -  O projeto não tem tempo limite, mas cessará quando os membros estiverem com 4 projetos pessoais/profissional em cada portifolio.
-## -  Focaremos em construir e aperfeiçoar Hard skills assim como soft skills.
-## -  Para os membros?
+ -  O projeto não tem tempo limite, mas cessará quando os membros estiverem com 4 projetos pessoais/profissional em cada portifolio.
+ -  Focaremos em construir e aperfeiçoar Hard skills assim como soft skills.
+ -  Para os membros?
 - Logica
 - Back end
 - Front end
 - Teste unitário
-
-    - Sobre o ponto Logica, logica você precisa chegar no minimo até indexsação de Array e Matriz.
     
     - Sobre o ponto Logica, logica você precisa chegar no minimo até indexsação de Array e Matriz.
 
