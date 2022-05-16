@@ -1,6 +1,6 @@
 # GarotosDePrograma3-
 
-## Apesar do trocadilho ultrapassado, esté é um projeto serio. 
+## Apesar do trocadilho ultrapassado, esté é um projeto serio! 
 ##  Visando o desenvolvimento pessoal e profissional dos integrantes deste grupo. 
  -  O projeto não tem tempo limite, mas cessará quando os membros estiverem com 4 projetos pessoais/profissional em cada portifolio.
  -  Focaremos em construir e aperfeiçoar Hard skills assim como soft skills.
